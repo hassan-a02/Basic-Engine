@@ -5,6 +5,8 @@
 
 #include "Mesh.h"
 
+#include <memory>
+
 struct DirectionalLight
 {
     glm::vec3 direction;

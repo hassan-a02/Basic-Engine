@@ -5,6 +5,8 @@
 
 #include "Mesh.h"
 
+#include <memory>
+
 class Entity
 {
 public:

@@ -5,6 +5,7 @@
 
 #include <vector>
 #include <algorithm>
+#include <memory>
 
 #include "Entity.h"
 #include "Camera.h"

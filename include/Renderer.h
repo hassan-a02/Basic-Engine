@@ -11,6 +11,7 @@
 #include "Shader.h"
 
 #include <iostream>
+#include <memory>
 
 class Renderer
 {

@@ -10,6 +10,7 @@
 #include "Menu.h"
 
 #include <chrono>
+#include <memory>
 
 class Application
 {
